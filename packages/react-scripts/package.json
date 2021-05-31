@@ -1,6 +1,6 @@
 {
-  "name": "react-scripts",
-  "version": "4.0.3",
+  "name": "@stackshirts/react-scripts",
+  "version": "4.0.3-forked.1",
   "description": "Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
